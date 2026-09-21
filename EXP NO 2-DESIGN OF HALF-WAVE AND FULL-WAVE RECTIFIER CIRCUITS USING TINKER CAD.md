@@ -8,6 +8,11 @@
 
 
 ## tinker cad circuit diagram
+Half Wave Rectifier
+<img width="1600" height="755" alt="WhatsApp Image 2026-09-21 at 12 35 48" src="https://github.com/user-attachments/assets/bcf6e4ec-d0ed-43ef-8371-62562f5c1963" />
+
+Full Wave Rectifier
+<img width="1600" height="806" alt="WhatsApp Image 2026-09-21 at 12 36 06" src="https://github.com/user-attachments/assets/dc685326-7d3b-42cd-958c-90ba549254da" />
 
 ## ripple factor calculation
 
