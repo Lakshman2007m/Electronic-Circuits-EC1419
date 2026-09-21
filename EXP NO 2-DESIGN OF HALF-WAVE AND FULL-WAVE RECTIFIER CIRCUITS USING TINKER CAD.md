@@ -15,7 +15,18 @@ Full Wave Rectifier
 <img width="1600" height="806" alt="WhatsApp Image 2026-09-21 at 12 36 06" src="https://github.com/user-attachments/assets/dc685326-7d3b-42cd-958c-90ba549254da" />
 
 ## ripple factor calculation
+Half Wave Rectifier
+<img width="1600" height="565" alt="WhatsApp Image 2026-09-21 at 12 41 01" src="https://github.com/user-attachments/assets/910754a8-add9-444c-b528-6de13c74f7ea" />
+
+Full Wave Rectifier
+<img width="1600" height="660" alt="WhatsApp Image 2026-09-21 at 12 41 26" src="https://github.com/user-attachments/assets/977bacd0-bec0-4986-90ac-ee04635e1903" />
 
 ## output graph
+Half Wave Rectifier
+<img width="1396" height="1600" alt="WhatsApp Image 2026-09-21 at 12 37 16" src="https://github.com/user-attachments/assets/17ce7949-c876-45e4-b1dd-80d4e4829319" />
+
+Full Wave Rectifier
+<img width="1600" height="1594" alt="WhatsApp Image 2026-09-21 at 12 37 35" src="https://github.com/user-attachments/assets/fa669ccf-f7d7-4f62-88fa-b35143feaedc" />
 
 ## result
+<img width="1600" height="848" alt="WhatsApp Image 2026-09-21 at 12 37 51" src="https://github.com/user-attachments/assets/1f7909ff-0ab7-467b-85dc-66758942c129" />
