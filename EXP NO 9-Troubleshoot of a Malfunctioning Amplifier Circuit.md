@@ -8,7 +8,10 @@
 
 
 ## Tabulation
+<img width="1080" height="1442" alt="WhatsApp Image 2026-09-21 at 13 04 19" src="https://github.com/user-attachments/assets/f5649e56-8174-4fd0-a6fd-f22519c241d6" />
 
 ## attach semilog graph
+<img width="941" height="1443" alt="WhatsApp Image 2026-09-21 at 13 05 28" src="https://github.com/user-attachments/assets/f496a429-3325-41a1-b827-19cac33535f7" />
 
 ## result
+<img width="1600" height="945" alt="WhatsApp Image 2026-09-21 at 13 05 42" src="https://github.com/user-attachments/assets/22f62baf-985e-49db-9b45-4dace37e55ae" />
