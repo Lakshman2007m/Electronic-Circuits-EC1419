@@ -6,7 +6,11 @@
 
 
 ## LT spice circuit diagram
+<img width="1600" height="1170" alt="WhatsApp Image 2026-09-21 at 12 50 31" src="https://github.com/user-attachments/assets/7bb22607-22be-499f-9515-38280476d89a" />
 
 ## output graph
+<img width="1600" height="1100" alt="WhatsApp Image 2026-09-21 at 12 50 48" src="https://github.com/user-attachments/assets/268447cd-a6e0-4214-903c-2c706413bd4d" />
+<img width="1001" height="1600" alt="WhatsApp Image 2026-09-21 at 12 51 09" src="https://github.com/user-attachments/assets/3ef3ea80-ce80-4681-ba32-5a2e02917de7" />
 
 ## result
+<img width="1600" height="686" alt="WhatsApp Image 2026-09-21 at 12 51 38" src="https://github.com/user-attachments/assets/c8939782-b5b4-4f43-ab2e-06edbcaa3fc5" />
